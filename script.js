@@ -1,5 +1,5 @@
 
-const totalTime = 10;
+const totalTime = 90;
 
 
 const circle = document.querySelector(".circle");
